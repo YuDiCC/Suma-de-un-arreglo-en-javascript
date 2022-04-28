@@ -5,7 +5,7 @@ let lista = [];
 
 function suma (){
 
-    for (i=0; i<=3; i++){
+    for (i=0; i<=1000; i++){
         lista.push(i);
         sum = sum + i;
    }
